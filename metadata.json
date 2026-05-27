@@ -1,0 +1,6 @@
+{
+  "name": "Deconstructor de Canciones AI",
+  "description": "Analiza y deconstruye cualquier canción para detallar su emoción, instrumentación, producción y estructura técnica, permitiendo exportar el análisis completo a texto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
